@@ -1,0 +1,16 @@
+langchain
+langgraph
+langsmith
+langchain-openai
+faiss-cpu
+langchain-community
+openai
+bs4
+requests
+chromadb
+langchain-community
+load_dotenv
+lxml
+langchain-experimental
+streamlit
+streamlit-chat

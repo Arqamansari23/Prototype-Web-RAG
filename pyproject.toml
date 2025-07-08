@@ -1,0 +1,23 @@
+[project]
+name = "app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "chromadb>=1.0.15",
+    "faiss-cpu>=1.11.0",
+    "langchain>=0.3.26",
+    "langchain-community>=0.3.27",
+    "langchain-experimental>=0.3.4",
+    "langchain-openai>=0.3.27",
+    "langgraph>=0.5.1",
+    "langsmith>=0.4.4",
+    "load-dotenv>=0.1.0",
+    "lxml>=6.0.0",
+    "openai>=1.93.1",
+    "requests>=2.32.4",
+    "streamlit>=1.46.1",
+    "streamlit-chat>=0.1.1",
+]
