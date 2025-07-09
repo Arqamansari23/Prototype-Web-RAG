@@ -9,7 +9,7 @@ from pathlib import Path
 
 # Page configuration
 st.set_page_config(
-    page_title="Web Scraping Cost Estimator",
+    page_title="GeneTech Solutions ",
     page_icon="🔗",
     layout="wide",
     initial_sidebar_state="expanded"
